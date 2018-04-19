@@ -31,5 +31,17 @@
   },
   "eslintConfig": {
     "extends": "./node_modules/react-scripts/.eslintrc"
-  }
+  },
+  "description": "![](http://wes.io/dgAQ/content)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AssemblyWeb/react-experiment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AssemblyWeb/react-experiment/issues"
+  },
+  "homepage": "https://github.com/AssemblyWeb/react-experiment#readme"
 }
